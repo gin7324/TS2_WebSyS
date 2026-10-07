@@ -50,7 +50,7 @@ https://task-manager-omega.infinityfreeapp.com/
 
 The demo login is:
 
-- Username: `demo`
+- Username: `demo_user`
 - Password: `TaskDemo123!`
 
 Its password is stored as a password hash. The seed creates two sample tasks and can be run again without duplicating the demo user or tasks.
